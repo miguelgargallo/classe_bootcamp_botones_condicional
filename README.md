@@ -1,2 +1,2 @@
-# classe_bootcamp_botones_condicional
+# ejercicio_clase_contador_mejorado_bootcamp
 Created with CodeSandbox
